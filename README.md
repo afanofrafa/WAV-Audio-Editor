@@ -18,6 +18,7 @@ Audio Editor is an audio editor written in C++ using WinAPI. It provides a full 
 
 - **Audio wave visualization**: displays audio data as a graph (waveform).
 - **Edit through visualization**: you can edit the audio file by changing it directly on the graph, selecting and modifying sections of the visualized waveform.
+- **Zoom in and out**: allows detailed examination of the audio waveform, from viewing individual samples to a broader overview.
 
 #### Settings Adjustment
 
@@ -57,7 +58,7 @@ You can save the modified file with any name and settings.
 
 - Windows OS
 - C++ compiler (e.g., Visual Studio)
-- Minimum standart version required - ISO C++ 17. 
+- Minimum standart version required - ISO C++ 17.
 
 ### Installation
 
@@ -87,6 +88,7 @@ You can save the modified file with any name and settings.
 
 - **Визуализация аудиоволн**: отображение звуковых данных в виде графика (волновой формы).
 - **Редактирование через визуализацию**: можно редактировать аудиофайл, изменяя его прямо на графике, выбирая и изменяя участки на визуализированной волне.
+- **Приближение и отдаление**: позволяет детально рассматривать волнограмму звука, начиная от отдельного рассмотрения каждого сэмпла до общего вида.
 
 #### Изменение настроек
 
